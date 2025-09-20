@@ -33,3 +33,21 @@
   border-color: #333333;
   color: #ffffff;
 }
+.hero-title {
+  font-size: 1.5rem; /* ~24px */
+  font-weight: bold;
+  color: #000; /* Pitch black */
+  line-height: 1.2;
+}
+
+/* Make hero subtitle smaller and grey */
+.hero-text {
+  font-size: 1rem; /* ~16px */
+  color: #444; /* dark grey for readability */
+  margin-top: 0.5rem;
+}
+
+/* Ensure carousel caption aligns left */
+.carousel-caption {
+  text-align: left;
+}
